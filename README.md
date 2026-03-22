@@ -1,2 +1,1 @@
-# Functional model of a mobile robotic device for preventive cleaning of ship hulls from organic fouling
-
+# Функциональная модель мобильного роботизированного устройства для профилактической чистки судовых корпусов от органических обрастаний «ЮНГА»
